@@ -2,5 +2,5 @@
 
 Dumping random thoughts about tech, mostly ML.
 
-TODO:
+TODO items:
 1. change the font
