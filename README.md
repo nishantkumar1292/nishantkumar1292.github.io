@@ -1,5 +1,6 @@
 # Personal Website
 
-Will use this for freelance opprotunities and as my personal blog.
+Dumping random thoughts about tech, mostly ML.
 
-The template is takes from [html5up](https://html5up.net/tessellate).
+TODO:
+1. change the font
