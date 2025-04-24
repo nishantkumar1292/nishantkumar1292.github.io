@@ -1,0 +1,9 @@
+markdown: kramdown
+
+collections:
+  blog:
+    output: true
+    permalink: /blog/:name/
+
+exclude:
+  - .specstory

@@ -1,0 +1,23 @@
+# Ignore Jekyll generated site
+_site/
+
+# Ruby-related files
+*.gem
+Gemfile.lock
+.bundle/
+
+# Node modules
+node_modules/
+
+# OS generated files
+.DS_Store
+
+# Cache/temp files
+.sass-cache/
+.cache/
+
+# Ignore the .specstory folder
+.specstory/
+
+# Ignore vendor folder (not needed for GitHub Pages)
+vendor/

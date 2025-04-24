@@ -1,14 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dumping Thoughts</title>
-</head>
-<body>
-    <h1>Brain Dumps</h1>
-    <ul>
-        <li><a href="blog/training_pipelines.html">Building ML Training Pipelines</a></li>
-    </ul>
-</body>
-</html>
+---
+layout: default
+title: Brain Dumps
+---
+<h1>{{ page.title }}</h1>
+<ul>
+    {% assign pages = site.pages | where_exp: "p", "p.path contains 'blog/'" %}
+    {% for post in pages %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
