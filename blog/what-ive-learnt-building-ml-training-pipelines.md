@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "What I've learnt building ML Training Pipelines"
+date: 2024-10-12
 ---
 
 # What I've learnt building ML Training Pipelines
