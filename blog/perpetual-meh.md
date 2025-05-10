@@ -14,7 +14,7 @@ Perhaps this observation is skewed because I have friends who seem utterly disap
 Lets start with _Happiness_. Obviously a big word, but this is the underlying emotion that we are all trying to chase. Most of India is unhappy, so at least my conversations do not seem like an outlier. I think any happiness survey in any country will mostly show majority as unhappy. that is how humans are conditioned, we subconsciously chase unhappiness. The image below shows how happy (the happiness index) is India compared to other countries.
 
 <p align="center">
-    <img src="https://pbs.twimg.com/media/GJHyJAHXEAEuTNy?format=jpg&name=large" alt="Image" style="width:30%;" /><br>
+    <img src="https://pbs.twimg.com/media/GJHyJAHXEAEuTNy?format=jpg&name=large" alt="Image" style="width:40%;" /><br>
     Image source: <a href="https://x.com/DocRGM/status/1770462368629428372">X post</a>
 </p>
 
@@ -29,7 +29,7 @@ Where is this discontent coming from? Conversations often circle back to a few k
 An [interesting study](https://www.nature.com/articles/s41598-021-93464-6) done shows that uncertainty decreases happiness, and increases curiosity. Although the frame of the experiment was different, but the underlying idea can be extrapolated.
 
 <p align="center">
-    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-93464-6/MediaObjects/41598_2021_93464_Fig2_HTML.png" alt="Image" style="width:30%;" /><br>
+    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-93464-6/MediaObjects/41598_2021_93464_Fig2_HTML.png" alt="Image" style="width:40%;" /><br>
     Image source: <a href="https://www.nature.com/articles/s41598-021-93464-6">Nature</a>
 </p>
 
