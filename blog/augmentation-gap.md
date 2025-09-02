@@ -21,7 +21,7 @@ Below are 2 popular companies known to have a high Augmentation Gap Index:
 
 These examples show that the product experience has limited correlation with the model's quality. LLM's capabilities and performance will improve over time. According to [METR's research](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/), the length of tasks that AI models can complete autonomously has been doubling approximately every 7 months for the last 6 years. This means that what took humans hours to complete in 2023 can now be done by AI in minutes, and this trend shows no signs of slowing down.
 
-![AI Task Completion Capabilities Over Time](augmentation_gap_1.png)
+![AI Task Completion Capabilities Over Time](/blog/augmentation_gap_1.png)
 
 *The time-horizon of software engineering tasks different LLMs can complete 50% of the time. Source: [METR](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)*
 
